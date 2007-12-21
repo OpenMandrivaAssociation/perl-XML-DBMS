@@ -21,6 +21,7 @@ BuildRequires:  perl(XML::LibXML::Common)
 BuildRequires:  perl-TimeDate
 BuildRequires:  perl(DBI)
 BuildArch:      noarch
+BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 XML-DBMS is middleware for transferring data between XML documents and
