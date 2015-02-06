@@ -1,7 +1,7 @@
 %define module  XML-DBMS
 %define name    perl-%{module}
 %define version 1.03
-%define release 19
+%define release 20
 
 Name:           %{name}
 Version:        %{version}
