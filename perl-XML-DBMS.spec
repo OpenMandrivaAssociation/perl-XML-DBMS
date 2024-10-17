@@ -9,7 +9,7 @@ Release:        %{release}
 Summary:        XML-DBMS perl module
 License:        Public Domain
 Group:          Development/Perl
-URL:            http://www.rpbourret.com/xmldbms/index.htm
+URL:            https://www.rpbourret.com/xmldbms/index.htm
 Source0:        ftp://ftp.rpbourret.com/perl-xml-dbms-%{version}.tar.bz2
 Requires:       perl-libxml-perl
 Requires:       perl-XML-LibXML
