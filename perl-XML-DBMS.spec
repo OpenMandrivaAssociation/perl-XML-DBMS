@@ -14,6 +14,7 @@ Source0:        ftp://ftp.rpbourret.com/perl-xml-dbms-%{version}.tar.bz2
 Requires:       perl-libxml-perl
 Requires:       perl-XML-LibXML
 Requires:       perl-TimeDate
+BuildRequires:	make
 BuildRequires:  perl-devel >= 5.6
 BuildRequires:  perl-libxml-perl
 BuildRequires:  perl(XML::LibXML)
